@@ -92,17 +92,18 @@ try {
 } catch (error) {
     console.error("Error de validación:", error.message);
 }
+```
 Capturas de pantalla
 A continuación, se muestran las pruebas de la librería ejecutándose directamente en la consola del navegador:
 
 Prueba del módulo Formato:
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c885c881-c27b-45e9-a4a9-41769f702d64" />
+<img width="1920" height="968" alt="Captura de pantalla 2026-07-05 162655" src="https://github.com/user-attachments/assets/f59e4ed0-213d-4fe5-9e1d-3b635f3c86ba" />
 
 Prueba del módulo Validador (Analizador de contraseñas):
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/aa95eea3-a099-41e4-b90b-38f819091e57" />
+<img width="1920" height="968" alt="Captura de pantalla 2026-07-05 162833" src="https://github.com/user-attachments/assets/03b7a248-581c-4ca5-9334-ef955241fea2" />
 
 Prueba del módulo Auth generando el timestamp:
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d20247e3-15e4-4800-9254-f8877949a1c2" />
+<img width="1920" height="963" alt="Captura de pantalla 2026-07-05 162932" src="https://github.com/user-attachments/assets/32b53d85-14e7-4044-b840-3c56827feaae" />
 
 Link del video:
 https://drive.google.com/drive/folders/1zCswfmnFcUjaEqhtzbxj16gxq4VNjmBf?usp=sharing
