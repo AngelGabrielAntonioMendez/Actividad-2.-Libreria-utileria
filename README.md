@@ -100,3 +100,6 @@ Prueba del módulo Tiempo y Formato:
 Prueba del módulo Validador (Analizador de contraseñas):
 
 Prueba del módulo Auth generando el timestamp:
+
+Link del video:
+https://drive.google.com/drive/folders/1zCswfmnFcUjaEqhtzbxj16gxq4VNjmBf?usp=sharing
